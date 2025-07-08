@@ -1,0 +1,19 @@
+Linear Regression Model:
+MAE: 3.6071
+MSE: 23.0608
+R2: 0.6805
+
+Random Forest Model:
+MAE: 3.6134
+MSE: 26.6596
+R2: 0.6306
+
+Decision Tree Model:
+MAE: 3.8757
+MSE: 41.4440
+R2: 0.4257
+
+Best Random Forest Model (GridSearchCV):
+MAE: 3.1711
+MSE: 19.5791
+R2: 0.7287
